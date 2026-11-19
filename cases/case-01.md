@@ -2,7 +2,7 @@
 
 | Field | Detail |
 |---|---|
-| Sample source | Phishing Pot (public research repository) |
+|  Sample source | Phishing Pot (public research repository), file: sample-10.eml |
 | Email date | 2026-07-08 (UTC) |
 | Analysis date | 2026-11-18 |
 | Verdict | Phishing (brand impersonation, probable crypto-wallet lure) |
