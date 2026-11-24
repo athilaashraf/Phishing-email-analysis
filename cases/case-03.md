@@ -1,4 +1,4 @@
-# Case 03: Casino Promotion Sent Through Firebase
+ # Case 03: Casino Promotion Sent Through Firebase
 
 | Field | Detail |
 |---|---|
